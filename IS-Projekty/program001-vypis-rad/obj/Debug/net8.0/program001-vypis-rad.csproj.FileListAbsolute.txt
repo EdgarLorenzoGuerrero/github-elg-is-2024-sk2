@@ -1,0 +1,15 @@
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\bin\Debug\net8.0\program001-vypis-rad.exe
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\bin\Debug\net8.0\program001-vypis-rad.deps.json
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\bin\Debug\net8.0\program001-vypis-rad.runtimeconfig.json
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\bin\Debug\net8.0\program001-vypis-rad.dll
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\bin\Debug\net8.0\program001-vypis-rad.pdb
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.AssemblyInfoInputs.cache
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.AssemblyInfo.cs
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.csproj.CoreCompileInputs.cache
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.sourcelink.json
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.dll
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\refint\program001-vypis-rad.dll
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.pdb
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\program001-vypis-rad.genruntimeconfig.cache
+C:\IS_PROJEKTY\github-elg-is-2024-sk2\IS-Projekty\program001-vypis-rad\obj\Debug\net8.0\ref\program001-vypis-rad.dll
