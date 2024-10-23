@@ -7,11 +7,11 @@ class Program {
 
         string again = "a";
         while(again == "a") {
-            Console.WriteLine("********************************");
-            Console.WriteLine("********** Výpis řady **********");
-            Console.WriteLine("********************************");
-            Console.WriteLine("****** Edgar L. Guerrero *******");
-            Console.WriteLine("********************************\n\n");
+            Console.WriteLine("*******************************");
+            Console.WriteLine("********** Výpis řady *********");
+            Console.WriteLine("*******************************");
+            Console.WriteLine("****** Edgar L. Guerrero ******");
+            Console.WriteLine("*******************************\n\n");
             Console.WriteLine();
 
             Console.Write("Zadejte první číslo řady (celé číslo): ");
