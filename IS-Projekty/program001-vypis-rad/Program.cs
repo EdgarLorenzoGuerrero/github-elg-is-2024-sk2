@@ -5,10 +5,8 @@ class Program {
 
     static void Main() {
 
-        // chci, aby se program opakoval po stisku klávesy "a"
         string again = "a";
         while(again == "a") {
-            //Console.Clear();
             Console.WriteLine("********************************");
             Console.WriteLine("********** Výpis řady **********");
             Console.WriteLine("********************************");
@@ -16,11 +14,6 @@ class Program {
             Console.WriteLine("********************************\n\n");
             Console.WriteLine();
 
-            // Vstup od uživatele - špatná varianta
-            //Console.Write("Zadejte první číslo řady: ");
-            //int first = int.Parse(Console.ReadLine());
-
-            // Vstup od uživatele - lepší varianta
             Console.Write("Zadejte první číslo řady (celé číslo): ");
             int first;
             while(!int.TryParse(Console.ReadLine(), out first)) {
@@ -39,7 +32,6 @@ class Program {
                 Console.Write("Nezadali jste celé číslo. Zadejte diference (celé číslo): ");
             }
 
-            // Výpis uživatelského vstupu
             Console.WriteLine();
             Console.WriteLine("======================================");
             Console.WriteLine("První číslo řady: {0}", first);
@@ -48,7 +40,6 @@ class Program {
             Console.WriteLine();
             Console.WriteLine();
 
-            // Logika pro výpis řady - TO-DO
             int current = first;
             while(current <= last) {
                 Console.WriteLine(current);
@@ -56,7 +47,6 @@ class Program {
             }
 
 
-            // Opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
